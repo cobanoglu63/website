@@ -186,3 +186,7 @@ Participation in the Kubernetes community is governed by the [CNCF Code of Condu
 ## Thank you
 
 Kubernetes thrives on community participation, and we appreciate your contributions to our website and our documentation!
+
+Donation
+BTC bc1qqh20x5v3wpp8gkz6rwmtuylh8kygp454277dfr
+ETH 0x2Ffd3d3b361a3Dd561005Dae2DD2e3010eECb2AB
